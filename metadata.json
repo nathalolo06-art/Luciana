@@ -1,0 +1,6 @@
+{
+  "name": "Invitación de 15 Años - Luciana Gómez",
+  "description": "Invitación elegante, minimalista y moderna para la celebración de los 15 años de Luciana Gómez, con paleta Rose Gold, contador regresivo y confirmación por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
