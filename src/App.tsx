@@ -104,12 +104,12 @@ export default function App() {
                 <div 
                   className="w-full h-full scale-110 origin-center"
                   style={{
-                    backgroundImage: "url('/src/assets/images//images/forest-bg.png')",
-                    backgroundSize: "cover",
-                    backgroundPosition: "center",
-                    backgroundRepeat: "no-repeat",
-                    filter: "blur(7px)"
-                  }}
+  backgroundImage: "url('/images/forest-bg.png')",
+  backgroundSize: "cover",
+  backgroundPosition: "center",
+  backgroundRepeat: "no-repeat",
+  filter: "blur(7px)"
+}}
                 />
                 {/* Elegant light parchment-like overlay to ensure crisp readability for gold typography */}
                 <div className="absolute inset-0 bg-gradient-to-b from-pearl/84 via-white/88 to-pearl/92 mix-blend-normal" />
