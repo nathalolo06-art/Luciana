@@ -33,7 +33,7 @@ export default function EnchantedBook({ onOpen }: EnchantedBookProps) {
         <div 
           className="absolute inset-0 opacity-25 scale-110"
           style={{
-            backgroundImage: "url('/src/assets/images/forest-bg.png')",
+            backgroundImage: "url('/images/forest-bg.png')",
             backgroundSize: "cover",
             backgroundPosition: "center",
             filter: "blur(4px)"
