@@ -4,27 +4,27 @@ import { Camera, Heart } from "lucide-react";
 export default function PhotoGallery() {
   const photos = [
     {
-      src: "/src/assets/images//images/whatsapp-1.jpeg",
+      src: "/src/assets/images/whatsapp-1.jpeg",
       caption: "Noche de destellos",
       subtitle: "El brillo de mis ilusiones",
     },
     {
-      src: "/src/assets/images//images/whatsapp-2.jpeg",
+      src: "/src/assets/images/whatsapp-2.jpeg",
       caption: "Mis quince deseos",
       subtitle: "Un sueño hecho realidad",
     },
     {
-      src: "/src/assets/images//images/whatsapp-3.jpeg",
+      src: "/src/assets/images/whatsapp-3.jpeg",
       caption: "Un deseo al viento",
       subtitle: "Risas y alegría compartida",
     },
     {
-      src: "/src/assets/images//images/whatsapp-4.jpeg",
+      src: "/src/assets/images/whatsapp-4.jpeg",
       caption: "Dulce juventud",
       subtitle: "Elegancia y sencillez en mi gran día",
     },
     {
-      src: "/src/assets/images//images/whatsapp-5.jpeg",
+      src: "/src/assets/images/whatsapp-5.jpeg",
       caption: "Un bosque de ilusiones",
       subtitle: "Donde florecen mis quince años",
     },
